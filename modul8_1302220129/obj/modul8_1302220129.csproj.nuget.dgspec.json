@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\OWNER\\Downloads\\modul8_1302220129\\modul8_1302220129\\modul8_1302220129.csproj": {}
+    "C:\\Users\\OWNER\\OneDrive\\Documents\\GitHub\\modul8_1302220129\\modul8_1302220129\\modul8_1302220129.csproj": {}
   },
   "projects": {
-    "C:\\Users\\OWNER\\Downloads\\modul8_1302220129\\modul8_1302220129\\modul8_1302220129.csproj": {
+    "C:\\Users\\OWNER\\OneDrive\\Documents\\GitHub\\modul8_1302220129\\modul8_1302220129\\modul8_1302220129.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\OWNER\\Downloads\\modul8_1302220129\\modul8_1302220129\\modul8_1302220129.csproj",
+        "projectUniqueName": "C:\\Users\\OWNER\\OneDrive\\Documents\\GitHub\\modul8_1302220129\\modul8_1302220129\\modul8_1302220129.csproj",
         "projectName": "modul8_1302220129",
-        "projectPath": "C:\\Users\\OWNER\\Downloads\\modul8_1302220129\\modul8_1302220129\\modul8_1302220129.csproj",
+        "projectPath": "C:\\Users\\OWNER\\OneDrive\\Documents\\GitHub\\modul8_1302220129\\modul8_1302220129\\modul8_1302220129.csproj",
         "packagesPath": "C:\\Users\\OWNER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\OWNER\\Downloads\\modul8_1302220129\\modul8_1302220129\\obj\\",
+        "outputPath": "C:\\Users\\OWNER\\OneDrive\\Documents\\GitHub\\modul8_1302220129\\modul8_1302220129\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\OWNER\\AppData\\Roaming\\NuGet\\NuGet.Config",

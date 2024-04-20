@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\OWNER\\Downloads\\modul8_1302220129\\",
+  "WorkspaceRootPath": "C:\\Users\\OWNER\\OneDrive\\Documents\\GitHub\\modul8_1302220129\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E509864-49CF-45F8-B6A7-AE70ADA66565}|modul8_1302220129\\modul8_1302220129.csproj|c:\\users\\owner\\downloads\\modul8_1302220129\\modul8_1302220129\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1304FF62-0C6C-4ACA-95DC-C9C940BEC4FA}|Solution Items{1304FF62-0C6C-4ACA-95DC-C9C940BEC4FA}|C:\\Users\\OWNER\\OneDrive\\Documents\\GitHub\\modul8_1302220129\\bank_transfer_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1304FF62-0C6C-4ACA-95DC-C9C940BEC4FA}|Solution Items{1304FF62-0C6C-4ACA-95DC-C9C940BEC4FA}|solutionrelative:bank_transfer_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E509864-49CF-45F8-B6A7-AE70ADA66565}|modul8_1302220129\\modul8_1302220129.csproj|c:\\users\\owner\\onedrive\\documents\\github\\modul8_1302220129\\modul8_1302220129\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E509864-49CF-45F8-B6A7-AE70ADA66565}|modul8_1302220129\\modul8_1302220129.csproj|solutionrelative:modul8_1302220129\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,19 +23,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\OWNER\\Downloads\\modul8_1302220129\\modul8_1302220129\\Program.cs",
-              "RelativeDocumentMoniker": "modul8_1302220129\\Program.cs",
-              "ToolTip": "C:\\Users\\OWNER\\Downloads\\modul8_1302220129\\modul8_1302220129\\Program.cs",
-              "RelativeToolTip": "modul8_1302220129\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T00:43:25.753Z",
+              "Title": "bank_transfer_config.json",
+              "DocumentMoniker": "C:\\Users\\OWNER\\OneDrive\\Documents\\GitHub\\modul8_1302220129\\bank_transfer_config.json",
+              "RelativeDocumentMoniker": "bank_transfer_config.json",
+              "ToolTip": "C:\\Users\\OWNER\\OneDrive\\Documents\\GitHub\\modul8_1302220129\\bank_transfer_config.json",
+              "RelativeToolTip": "bank_transfer_config.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-20T01:03:47.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\OneDrive\\Documents\\GitHub\\modul8_1302220129\\modul8_1302220129\\Program.cs",
+              "RelativeDocumentMoniker": "modul8_1302220129\\Program.cs",
+              "ToolTip": "C:\\Users\\OWNER\\OneDrive\\Documents\\GitHub\\modul8_1302220129\\modul8_1302220129\\Program.cs",
+              "RelativeToolTip": "modul8_1302220129\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T00:43:25.753Z",
+              "EditorCaption": ""
             }
           ]
         }

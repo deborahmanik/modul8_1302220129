@@ -1,0 +1,5 @@
+C:\Users\OWNER\OneDrive\Documents\GitHub\modul8_1302220129\modul8_1302220129\obj\Debug\net8.0\modul8_1302220129.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OWNER\OneDrive\Documents\GitHub\modul8_1302220129\modul8_1302220129\obj\Debug\net8.0\modul8_1302220129.AssemblyInfoInputs.cache
+C:\Users\OWNER\OneDrive\Documents\GitHub\modul8_1302220129\modul8_1302220129\obj\Debug\net8.0\modul8_1302220129.AssemblyInfo.cs
+C:\Users\OWNER\OneDrive\Documents\GitHub\modul8_1302220129\modul8_1302220129\obj\Debug\net8.0\modul8_1302220129.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\OneDrive\Documents\GitHub\modul8_1302220129\modul8_1302220129\obj\Debug\net8.0\modul8_1302220129.sourcelink.json
